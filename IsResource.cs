@@ -16,5 +16,5 @@ public bool IsResource(Item item)
         return true;
     }
 
-    return false;;
+    return false;
 }
